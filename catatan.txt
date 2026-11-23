@@ -1,0 +1,57 @@
+[TOPIK]
+Pengenalan Good Design dan Figma
+
+[NAMA]
+Tuanku Muhammad Malik Qashmal
+
+[NIM]
+25041110110069
+
+[TANGGAL]
+otomatis
+
+[PERTANYAAN]
+
+
+@besar Apa itu desain?
+
+
+
+
+
+
+Figma dan fungsi Toolbar
+
+
+
+
+
+fungsi dari Frame
+
+
+
+Apa fungsi Properties Panel dan layer panel
+
+
+
+
+
+Alignment
+
+
+
+
+
+[CATATAN]
+Desain merupakan proses menyusun berbagai elemen agar menghasilkan tampilan yang menarik, teratur, dan mudah dipahami. Desain tidak hanya membutuhkan kreativitas, tetapi juga aturan, teknik, dan panduan yang dapat dipelajari. Tujuannya adalah agar seseorang mampu mengubah kumpulan informasi atau elemen yang awalnya terlihat biasa menjadi sebuah komposisi yang menarik dan memiliki nilai estetika.
+
+Figma merupakan aplikasi desain yang digunakan untuk membuat berbagai tampilan, terutama desain website dan antarmuka pengguna. Toolbar berisi berbagai alat untuk membuat dan mengatur desain, seperti Move Tool, Frame Tool, Shape Tool, Pen Tool, Text Tool, dan Comments.
+
+Frame digunakan sebagai tempat atau area kerja untuk membuat desain. Ukurannya dapat disesuaikan dengan perangkat yang menjadi target desain, seperti komputer, laptop, atau smartphone.
+
+Properties Panel digunakan untuk mengatur karakteristik elemen yang dipilih, seperti ukuran, warna, jenis tulisan, dan berbagai pengaturan lainnya. Layers Panel menampilkan daftar elemen yang terdapat dalam desain. Urutan layer dapat diubah untuk menentukan elemen mana yang berada di depan atau di belakang.
+
+Alignment merupakan prinsip menyelaraskan posisi elemen agar terlihat rapi dan teratur. Contohnya, beberapa teks dan gambar memiliki garis awal yang sejajar sehingga tampilan tidak terlihat berantakan.
+
+[RANGKUMAN]
+Desain merupakan keterampilan yang bisa dipelajari oleh siapa saja. Untuk menghasilkan desain yang baik, seseorang perlu memahami prinsip dan teknik desain, bukan hanya mengandalkan bakat atau kemampuan menggunakan aplikasi. Figma merupakan alat bantu desain yang menyediakan berbagai fitur untuk membuat dan mengatur elemen visual. Alignment dan Grid merupakan dasar penting dalam membuat layout. Alignment membantu menyelaraskan elemen, sedangkan Grid memberikan pedoman penempatan agar desain terlihat rapi dan seimbang.Alignment dan Grid merupakan dasar penting dalam membuat layout.

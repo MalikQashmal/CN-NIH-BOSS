@@ -1,0 +1,55 @@
+[PERTANYAAN]
+@sedang kelebihan dari Unsplash dan Pexels
+
+
+@besar Design Tricks
+
+
+
+
+@besar Contrast
+
+
+
+
+  White Space
+
+
+Repetition 
+
+
+
+ Apa itu Overlapping?
+
+
+ Apa itu Tension?
+
+
+Consistency 
+
+
+
+Mimic Method 
+
+[CATATAN]
+Unsplash menyediakan berbagai foto dengan tampilan yg relatif alami dan dapat digunakan sesuai ketentuan layanannya sedangkan Pexels menyediakan beragam pilihan foto dengan gaya dan konsep yg beragam.
+
+Design Tricks merupakan berbagai teknik yang digunakan untuk membuat desain terlihat lebih menarik, unik, dan memiliki daya tarik visual.
+
+Contrast merupakan perbedaan yang dibuat antara dua atau lebih elemen agar masing-masing terlihat jelas dan memiliki karakter tersendiri. Contrast membantu menciptakan perbedaan tingkat kepentingan antar elemen sehingga pengguna dapat mengetahui bagian yang harus diperhatikan terlebih dahulu.
+
+White Space merupakan ruang kosong di sekitar elemen desain. Ruang tersebut tidak harus berwarna putih, tetapi bisa menggunakan warna latar lainnya.
+
+Repetition merupakan teknik mengulang elemen tertentu dalam desain agar tercipta pola yang menarik dan konsisten. Elemen yang dapat diulang meliputi warna, bentuk, ukuran, gaya tulisan, jarak, dan susunan layout.
+
+Overlapping merupakan teknik menempatkan dua atau lebih elemen sehingga sebagian bagiannya saling menutupi. Overlapping dapat menambahkan dimensi visual dan membuat komposisi desain terlihat lebih hidup.
+
+Tension merupakan teknik menciptakan ketegangan visual atau kesan tidak sepenuhnya seimbang dalam desain agar tampilan terasa lebih menarik.
+
+Consistency merupakan prinsip menjaga keseragaman elemen desain agar memiliki pola dan gaya yang sama. 
+
+Mimic Method merupakan metode belajar dengan meniru atau mempraktikkan karya orang yang sudah ahli sebelum mencoba menciptakan karya sendiri. method ini Membantu meningkatkan keterampilan, memahami prinsip desain, dan membangun kepercayaan diri sebelum membuat desain secara mandiri.
+
+
+[RANGKUMAN]
+Design Tricks merupakan kumpulan teknik yang membantu meningkatkan kualitas visual desain. Teknik tersebut dapat digunakan untuk menciptakan tampilan yang lebih menarik dan profesional. Contrast membantu membedakan elemen dalam desain melalui perbedaan warna, ukuran, dan ketebalan. White Space bukan sekadar ruang kosong, melainkan bagian penting dalam desain.Repetition membantu menciptakan pola dan kesatuan dalam desain. Overlapping merupakan teknik menggabungkan beberapa elemen dengan cara saling menutupi sebagian. Tension digunakan untuk menciptakan ketegangan visual agar desain tidak terlihat monoton. Consistency membantu menjaga keseragaman seluruh elemen desain. Dengan konsistensi yang baik, website akan terlihat lebih profesional dan mudah digunakan. Mimic Method merupakan cara belajar dengan mempraktikkan karya desainer yang lebih berpengalaman.
