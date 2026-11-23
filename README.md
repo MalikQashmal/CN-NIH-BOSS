@@ -115,7 +115,7 @@ python cornell_notes_lanjutan.py contoh_catatan_lanjutan.txt --font FontKu.ttf -
 
 Hasil lanjutan disimpan di folder `hasil_lanjutan/`.
 
-![Contoh halaman lanjutan](docs/contoh_ringkasan_lanjutan.png)
+![Contoh halaman lanjutan](contoh_ringkasan_lanjutan.png)
 
 ## Format file catatan
 
