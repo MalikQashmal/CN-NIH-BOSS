@@ -7,7 +7,7 @@ Program Python untuk **mengisi template Cornell Notes (CN) secara otomatis** dar
 
 Satu kali jalan menghasilkan **10 variasi CN yang berbeda**, lengkap dengan lembar ringkasan, sehingga kamu bisa memilih mana yang paling layak pakai.
 
-![Contoh 10 variasi](docs/contoh_ringkasan_10_variasi.png)
+![Contoh 10 variasi](ringkasan.png)
 
 > Gambar contoh dibuat dengan font pengganti (bukan font tulisan tangan). Hasil dengan fontmu sendiri akan terlihat jauh lebih natural.
 
